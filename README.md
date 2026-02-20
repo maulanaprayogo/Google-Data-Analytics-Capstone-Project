@@ -45,4 +45,37 @@ The main business question asks how annual members and casual riders use the ser
 - **Time of Day**: At what times are they most active?
 - **Location**: Which stations are the most popular for each group?
 
+### Findings
 
+On average, **annual members** complete 6,424 rides per day, while **casual riders** complete 3,579. Although members use the service more frequently, **casual riders actually ride 84% longer** per trip than members do.
+
+Our analysis of riding patterns shows several key differences:
+- **Weekly Patterns**: Annual members' activity **peaks during the week** and declines over the weekend. In contrast, casual ridership is lower on weekdays but **surges on weekends**.
+
+  ![](Weekly Behavior.png)
+  
+- **Hourly Behavior**: Member usage **peaks sharply during commuting hours** (8 AM and 5 PM). However, casual ridership grows steadily throughout the day, **peaking in the late afternoon**.
+  
+- **Popular Locations**: The top 10 start locations for casual riders are in **recreational areas**, such as Navy Pier. Meanwhile, annual members start their rides near **residential areas, offices, and transit hubs**.
+
+- **Seasonal Trends**: While both groups peak in the summer, members stay active longer into the year. **Member usage remains strong through October, whereas casual ridership begins to drop earlier**, starting in September.
+
+## Conclusion
+
+In summary, our analysis shows two very different types of users:
+
+- **Casual Riders**: These users mainly use Cyclistic for **recreation**. This is shown by their increased activity on weekends, longer average ride times, and starting points near tourist spots and recreational areas.
+
+- **Annual Members**: These users primarily use the service for **commuting**. We can see this in their high usage during "rush hours" (7–9 AM and 4–6 PM) on weekdays. They generally have shorter ride durations and start their trips near offices, residential areas, or transit hubs.
+
+## Recommendation
+
+Based on my analysis, I recommend the following marketing strategies:
+
+- **Introduce a "First-Year" Discount**: Offer a 30-day free trial or a discounted price for the first year. This reduces the risk for casual riders who are considering a full membership.
+
+- **Target High-Traffic Locations**: Focus digital advertisements and physical promotions at the **top 10 recreational stations** (like Navy Pier), where casual riders are most active.
+
+- **Create Seasonal Membership Options**: Since casual riders are most active during the summer and on weekends, consider launching **"Weekend Passes"** or **"Summer-Only"** memberships to bridge the gap to a full annual plan.
+
+- **Highlight the Savings**: Perform a **cost-benefit analysis** to show casual riders how much money they could save by switching to an annual membership. This data can be a powerful tool for our promotional campaigns.
