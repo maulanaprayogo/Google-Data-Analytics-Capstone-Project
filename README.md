@@ -52,11 +52,15 @@ On average, **annual members** complete 6,424 rides per day, while **casual ride
 Our analysis of riding patterns shows several key differences:
 - **Weekly Patterns**: Annual members' activity **peaks during the week** and declines over the weekend. In contrast, casual ridership is lower on weekdays but **surges on weekends**.
 
-  ![](Weekly Behavior.png)
+  ![](weekly_behavior.png)
   
 - **Hourly Behavior**: Member usage **peaks sharply during commuting hours** (8 AM and 5 PM). However, casual ridership grows steadily throughout the day, **peaking in the late afternoon**.
+
+  ![](hourly_behavior.png)
   
 - **Popular Locations**: The top 10 start locations for casual riders are in **recreational areas**, such as Navy Pier. Meanwhile, annual members start their rides near **residential areas, offices, and transit hubs**.
+
+![](top_10_location.png)
 
 - **Seasonal Trends**: While both groups peak in the summer, members stay active longer into the year. **Member usage remains strong through October, whereas casual ridership begins to drop earlier**, starting in September.
 
