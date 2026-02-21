@@ -64,6 +64,8 @@ Our analysis of riding patterns shows several key differences:
 
 - **Seasonal Trends**: While both groups peak in the summer, members stay active longer into the year. **Member usage remains strong through October, whereas casual ridership begins to drop earlier**, starting in September.
 
+![](yearly_behavior.png)
+
 ## Conclusion
 
 In summary, our analysis shows two very different types of users:
